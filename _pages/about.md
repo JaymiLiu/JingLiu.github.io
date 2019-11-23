@@ -1,7 +1,7 @@
 ---
 title: "About"
 permalink: /about/
-layout: default
+layout: archive
 date: 2019-11-23EST17:22:20+05:00
 ---
 
