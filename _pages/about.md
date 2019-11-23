@@ -2,6 +2,7 @@
 title: "About"
 permalink: /about/
 date: 2019-11-23EST17:22:20+05:00
+toc:true
 ---
 
 I am currently looking for jobs related data scientist, machine learning engineerer, and data analyst.
