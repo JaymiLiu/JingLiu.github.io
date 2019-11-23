@@ -6,8 +6,9 @@ author_profile: true
 classes: wide
 ---
 
-## Research Associate, George Mason University, Sep. 2018 to Aug. 2019  
-  Collaborator: [Dr. Noseong Park](https://sites.google.com/view/npark)
+## Research Associate  
+  Collaborator: [Dr. Noseong Park](https://sites.google.com/view/npark)  
+  George Mason University, Sep. 2018 to Aug. 2019
 + *Social media data analysis with Graph Neural Networks (GNN)*
   - Processed both unstructured (e.g., textual data) and structured (e.g., friendship relations and retweet records) social media data
   - Customized a bi-directional long short term memory (LSTM) network to embed tweet texts and integrated it with one state-of-the-art graph convolution neural network for predicting the severity of vulnerabilities%, one cyber-security application% moving average to handle the out-of-memory issue for gpu, attention mechanism to get useful tweets
