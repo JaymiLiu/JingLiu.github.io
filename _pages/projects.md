@@ -3,6 +3,7 @@ title: "Research Projects"
 permalink: /projects/
 layout: archive
 author_profile: true
+classes: wide
 ---
 
 ## Research Associate, George Mason University, Sep. 2018 to Aug. 2019  
