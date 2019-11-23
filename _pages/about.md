@@ -1,7 +1,8 @@
 ---
 title: "About"
 permalink: /about/
-layout: archive
+layout: single
+author_profile: true
 date: 2019-11-23EST17:22:20+05:00
 ---
 
