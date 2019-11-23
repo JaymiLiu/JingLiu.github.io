@@ -5,8 +5,6 @@ layout: archive
 author_profile: true
 ---
 
-{% include base_path %}
-
 ## Research Associate, George Mason University, Sep. 2018 to Aug. 2019  
   Collaborator: [Dr. Noseong Park](https://sites.google.com/view/npark)
 + *Social media data analysis with Graph Neural Networks (GNN)*
