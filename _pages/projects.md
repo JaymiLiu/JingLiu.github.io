@@ -36,6 +36,7 @@ classes: wide
 + Developed two video coding frameworks (in Matlab) which weigh recovery quality and decoding time, employed **TV** minimization by **A**ugmented **L**agrangian and **AL**ternating direction **AL**gorithms (TVAL3) as the decoding algorithm
 + Validated the effectiveness of the proposed method by comparing with two conventional video coding methods (i.e., H.264 and JPEG) and a well-known low-complexity video compression approach DISCOVER
 -->
+
 ### Intern
   Advisor: Dr. Jiansong Zhang and [Dr. Kun Tan](http://kuntan.info/)  
   Microsoft Research Asia (MSRA), Jun. 2011 to Aug. 2012
