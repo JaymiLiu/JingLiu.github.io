@@ -217,7 +217,12 @@ kramdown:
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
 
-
+collections:
+  projects:
+    output: true
+    permalink: /:collection/:path/
+    
+    
 # Defaults
 defaults:
   # _posts
