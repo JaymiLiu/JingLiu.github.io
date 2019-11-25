@@ -3,11 +3,13 @@ title: "Research Projects"
 permalink: /projects/
 layout: archive
 author_profile: true
-classes: wide
+toc: true
+toc_label: "Appointments"
+toc_icon: "columns"
 ---
 
 ### Research Associate  
-  Collaborator: [Dr. Noseong Park](https://sites.google.com/view/npark)  
+  <!---Collaborator: Dr. Noseong Park-->
   George Mason University, Sep. 2018 to Aug. 2019
 + *Social media data analysis with Graph Neural Networks (GNN)*
   - Processed both unstructured (e.g., textual data) and structured (e.g., friendship relations and retweet records) social media data
@@ -21,7 +23,7 @@ classes: wide
 	- Developed deep neural networks to model and maximize airline market share over air transportation network
   
 ### Research Assistant
-  Supervisor: [Dr. Ming Lu](http://www.civil.engineering.ualberta.ca/research/researchareas/construction/minglu.aspx)  
+  <!---Supervisor: Dr. Ming Lu-->
   University of Alberta, Sep. 2014 to Jul. 2018
 + Dual-Level Resource-Constrained Multi-Project Scheduling Framework for Prefabrication in Construction
   - Proposed a dual-level multi-project scheduling methodology to improve the resource allocation practice of multiple concurrent projects by enhancing the robustness of derived resource plans
@@ -29,7 +31,7 @@ classes: wide
   - Developed a MS project addon (in C#) for a partner construction company to apply the proposed methodology in scheduling bridge girder fabrication projects
 
 ### Research Assistant
-  Supervisor: [Dr. Fei Qiao](http://nics.ee.tsinghua.edu.cn/people/qiaofei/)  
+  <!---Supervisor: Dr. Fei Qiao-->
   Tsinghua University, Oct. 2010 to Jun. 2014
 + A novel low-complexity video compression method based on Underdetermined Blind Signal Separation (UBSS) and Compressive Sensing (CS)
 <!---
