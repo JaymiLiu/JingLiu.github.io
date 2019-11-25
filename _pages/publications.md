@@ -1,10 +1,10 @@
 ---
 title: "Publication"
 permalink: /publications/
-layout: archive
 author_profile: true
-classes: wide
 toc: true
+toc_label: "Included Layouts"
+toc_icon: "columns"
 ---
 
 ### Conferences
