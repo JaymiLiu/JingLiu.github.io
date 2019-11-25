@@ -10,7 +10,7 @@ classes: wide
   George Mason University, Sep. 2018 to Aug. 2019
 + *Social media data analysis with Graph Neural Networks (GNN)*
   - Processed both unstructured (e.g., textual data) and structured (e.g., friendship relations and retweet records) social media data
-  - Customized a bi-directional long short term memory (LSTM) network to embed tweet texts and integrated it with one state-of-the-art graph convolution neural network for predicting the severity of vulnerabilities%, one cyber-security application% moving average to handle the out-of-memory issue for gpu, attention mechanism to get useful tweets
+  - Customized a bi-directional long short term memory (LSTM) network to embed tweet texts and integrated it with one state-of-the-art graph convolution neural network for predicting the severity of vulnerabilities, one cyber-security application moving average to handle the out-of-memory issue for gpu, attention mechanism to get useful tweets
   - Proposed a node-edge co-convolution graph neural network architecture and demonstrated its effectiveness in predicting information diffusion (i.e., influence probability) over social networks  
 + *Data augmentation with Generative Adversarial Networks (GAN)*
 	- Developed a GAN architecture to synthesize incomplete tabular data with two constraints that are maintaining column-wise statistical means and functional dependencies
@@ -31,10 +31,10 @@ classes: wide
   <!---Supervisor: Dr. Fei Qiao-->
   Tsinghua University, Oct. 2010 to Jun. 2014
 + A novel low-complexity video compression method based on Underdetermined Blind Signal Separation (UBSS) and Compressive Sensing (CS)
-<!---
-+ Developed two video coding frameworks (in Matlab) which weigh recovery quality and decoding time, employed **TV** minimization by **A**ugmented **L**agrangian and **AL**ternating direction **AL**gorithms (TVAL3) as the decoding algorithm
-+ Validated the effectiveness of the proposed method by comparing with two conventional video coding methods (i.e., H.264 and JPEG) and a well-known low-complexity video compression approach DISCOVER
--->
+
+<!--- + Developed two video coding frameworks (in Matlab) which weigh recovery quality and decoding time, employed **TV** minimization by **A**ugmented **L**agrangian and **AL**ternating direction **AL**gorithms (TVAL3) as the decoding algorithm
++ Validated the effectiveness of the proposed method by comparing with two conventional video coding methods (i.e., H.264 and JPEG) and a well-known low-complexity video compression approach DISCOVER -->
+
 
 ### Intern
   <!---Advisor: Dr. Jiansong Zhang and [Dr. Kun Tan](http://kuntan.info/)  -->
