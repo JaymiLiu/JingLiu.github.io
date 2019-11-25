@@ -3,7 +3,7 @@ title: "Publication"
 permalink: /publications/
 author_profile: true
 toc: true
-toc_label: "Included Layouts"
+toc_label: "Publications"
 toc_icon: "columns"
 ---
 
