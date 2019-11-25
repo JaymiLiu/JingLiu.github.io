@@ -4,6 +4,7 @@ permalink: /publications/
 layout: archive
 author_profile: true
 classes: wide
+toc: true
 ---
 
 ### Conferences
