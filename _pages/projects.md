@@ -2,9 +2,7 @@
 title: "Research Projects"
 permalink: /projects/
 author_profile: true
-toc: true
-toc_label: "Appointments"
-toc_icon: "columns"
+classes: wide
 ---
 
 ### Research Associate  
