@@ -40,5 +40,5 @@ toc_icon: "columns"
 -->
 
 ### Intern
-  Advisor: Dr. Jiansong Zhang and [Dr. Kun Tan](http://kuntan.info/)  
+  <!---Advisor: Dr. Jiansong Zhang and [Dr. Kun Tan](http://kuntan.info/)  -->
   Microsoft Research Asia (MSRA), Jun. 2011 to Aug. 2012
