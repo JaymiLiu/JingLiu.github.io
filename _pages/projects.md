@@ -1,7 +1,6 @@
 ---
 title: "Research Projects"
 permalink: /projects/
-layout: archive
 author_profile: true
 toc: true
 toc_label: "Appointments"
