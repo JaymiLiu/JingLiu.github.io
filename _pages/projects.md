@@ -1,7 +1,8 @@
 ---
 title: Projects
-layout: posts
+layout: collections
 permalink: /projects/
+collections: projects
 classes: wide
 ---
 
