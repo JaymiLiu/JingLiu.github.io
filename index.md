@@ -10,7 +10,7 @@ I am currently looking for jobs related data scientist, machine learning enginee
 
 From Aug. 2018 to Aug. 2019, I have worked as a research associate in George Mason University (GMU) with main focuses on social media data mining with graph neural networks, data augmentation with generative adversarial networks, and modeling and accelerating large-scale optimization problems with TensorFlow. Through the one year research experience, I practiced my skills in structured and unstructured data processing, supervised machine learning, and deep learning. 
 
-Before joining GMU, 
+<!--Before joining GMU, --->
 
 For my education background, I received my doctoral degree from [University of Alberta](https://www.ualberta.ca/), Canada in Jun. 2018, master degree from [Tsinghua University](http://www.tsinghua.edu.cn/publish/newthuen/), China on Jun. 2013, and bachelor degree from [Southeast University](http://www.seu.edu.cn/english/), China on Jun. 2010.
 
