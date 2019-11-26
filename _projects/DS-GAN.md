@@ -1,5 +1,8 @@
 ---
 title: "Data augmentation with Generative Adversarial Networks (GAN)"
+categories:
+  - Data Science
+  - Machine learning
 ---
 
 - Developed a GAN architecture to synthesize incomplete tabular data with two constraints that are maintaining column-wise statistical means and functional dependencies
