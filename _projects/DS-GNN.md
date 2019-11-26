@@ -1,7 +1,5 @@
 ---
 title: "Social media data analysis with Graph Neural Networks (GNN)"
-categories:
-  - Civil Engineering
 ---
 
 ### Research Associate  
