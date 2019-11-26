@@ -1,6 +1,6 @@
 ---
 title: Projects
-layout: collection
+layout: posts
 permalink: /projects/
 collection: projects
 classes: wide
