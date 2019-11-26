@@ -1,9 +1,9 @@
 ---
 title: "Social media data analysis with Graph Neural Networks (GNN)"
 ---
-### Predicting Influence Probabilities using Graph Convolutional Networks
+## Predicting Influence Probabilities using Graph Convolutional Networks
 
-**Highlights**
+### **Highlights**
 + Proposed a node-edge co-convolution graph neural network architecture
 + Demonstrated its effectiveness in predicting information diffusion (i.e., influence probability) over social networks  
 
@@ -16,6 +16,12 @@ Covolve Hidden vectors
 Overall Architecture
 
 ![GNN_2]({{ site.url }}{{ site.baseurl }}/assets/GCN_overall.png)
+
+
+## VASE: A Twitter-based Vulnerability Analysis and Score Engine
+### **Highlights**
+- Customized a bi-directional long short term memory (LSTM) network to embed tweet texts 
+- Integrated the customized LSTM with one state-of-the-art graph convolution neural network for predicting the severity of vulnerabilities
 
 <!---
 ### Research Associate  
