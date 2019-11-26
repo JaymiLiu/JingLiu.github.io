@@ -11,15 +11,11 @@ The purpose of this paper is to predict the probability that one person influenc
 
 Covolve Hidden vectors
 
-```html
-{% raw %}<img src="{{ site.url }}{{ site.baseurl }}/assets/GCN_information_flow.png" alt="">{% endraw %}
-```
+![GNN_1]({{ site.url }}{{ site.baseurl }}/assets/GCN_information_flow.png)
 
 Overall Architecture
 
-```html
-{% raw %}<img src="{{ site.url }}{{ site.baseurl }}/assets/GCN_overall.png" alt="">{% endraw %}
-```
+![GNN_2]({{ site.url }}{{ site.baseurl }}/assets/GCN_overall.png)
 
 <!---
 ### Research Associate  
