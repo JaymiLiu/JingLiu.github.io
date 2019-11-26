@@ -3,15 +3,22 @@ title: "Social media data analysis with Graph Neural Networks (GNN)"
 ---
 ### Predicting Influence Probabilities using Graph Convolutional Networks
 
-Highlights
+**Highlights**
 + Proposed a node-edge co-convolution graph neural network architecture
 + Demonstrated its effectiveness in predicting information diffusion (i.e., influence probability) over social networks  
 
 The purpose of this paper is to predict the probability that one person influences another person over the social network so that it can more precisely to predicte information cascade over social network. Graph is used to model the social network, the influence probability to be predicted is one edge feature. We conjecture that the co-convolution of vertex features and edge features following the information flow direction could improve the prediction accuracy. 
 
+Covolve Hidden vectors
+
 <div align="center">
   <img src="/assets/GCN_information_flow.png" width="700px" />  
-  <img src="/assets/GCN_overall.png" width="700px" />
+</div>  
+
+Overall Architecture
+
+<div align="center">  
+  <img src="/assets/GCN_overall.png" width="800px" />
 </div>
 
 <!---
