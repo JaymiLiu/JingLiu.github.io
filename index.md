@@ -6,7 +6,7 @@ author_profile: true
 date: 2019-11-23EST17:22:20+05:00
 ---
 
-I am currently looking for jobs related data scientist, machine learning engineerer, and data analyst.
+I am currently looking for jobs related to data scientist, machine learning engineerer, and data analyst.
 
 From Aug. 2018 to Aug. 2019, I have worked as a research associate in George Mason University (GMU) with main focuses on social media data mining with graph neural networks, data augmentation with generative adversarial networks, and modeling and accelerating large-scale optimization problems with TensorFlow. Through the one year research experience, I practiced my skills in structured and unstructured data processing, supervised machine learning, and deep learning. 
 
