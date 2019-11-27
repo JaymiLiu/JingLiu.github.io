@@ -9,12 +9,6 @@ title: "Data augmentation with Generative Adversarial Networks (GAN)"
 
 This work mainly tackle situations that organizations or companies can only share a subset of tabular data and column-wise statistical means. The aim of this work is to generate a synthetic table from the released, incomplete sub-table under two constraints that the synthetic table (1) maintains the released column-wise statistical means and (2) preserves the semantic properties of the released sub-table. A novel generative adversarial network, ITS-GAN, is proposed for such purpose. In ITS-GAN, autoencoders are adopted to capture the semantic properties. The two contraints are added as regularization terms to the loss function of the generator. The performance of ITS-GAN is evaluated on two datasets. The results show ITS-GAN improves classification performance and outperforms various state-of-the-art data augmentation approaches.
 
-<div align="center">
-  
-  {% raw %}<img src="{{ site.url }}{{ site.baseurl }}/assets/Faketable.png" alt="">{% endraw %}
-
-</div>
-
 ![FakeTable_1]({{ site.url }}{{ site.baseurl }}/assets/Faketable.png)
 
 
