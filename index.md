@@ -23,5 +23,4 @@ For my education background, I received my doctoral degree from [University of A
 - Bachelor of Engineering, [Information Engineering](http://radio.seu.edu.cn/), Jun. 2010,  
 [Southeast University](http://www.seu.edu.cn/english/), Nanjing, China -->
 
-{% include bottom.html %}
-
+{% include clustrmaps.html %}
