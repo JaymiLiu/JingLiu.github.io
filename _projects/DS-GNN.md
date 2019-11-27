@@ -7,9 +7,9 @@ title: "Social media data analysis with Graph Neural Networks (GNN)"
 + Proposed a node-edge co-convolution graph neural network architecture
 + Demonstrated its effectiveness in predicting information diffusion (i.e., influence probability) over social networks  
 
-The purpose of this paper is to predict the probability that one person influences another person over the social network so that it can more precisely to predicte information cascade over social network. Graph is used to model the social network, the influence probability to be predicted is one edge feature. We conjecture that the co-convolution of vertex features and edge features following the information flow direction could improve the prediction accuracy. 
+The aim of this work is to predict the probability that one person influences another person over the social network so that it can more precisely to predicte information cascade over social network. Graph is used to model the social network, the influence probability to be predicted is one edge feature. We conjecture that the co-convolution of vertex features and edge features following the information flow direction could improve the prediction accuracy. The proposed node-edge co-convolution is illustrated as follows. The experiment result shows very high prediction accuracy with mean absolute percentage error less than 0.1.
 
-Covolve Hidden vectors
+Covolve Hidden vectors for node (left) and edge (right) following the information flow direction.
 
 ![GNN_1]({{ site.url }}{{ site.baseurl }}/assets/GCN_information_flow.png)
 
@@ -20,8 +20,19 @@ Overall Architecture
 
 ## VASE: A Twitter-based Vulnerability Analysis and Score Engine
 ### **Highlights**
-- Customized a bi-directional long short term memory (LSTM) network to embed tweet texts 
-- Integrated the customized LSTM with one state-of-the-art graph convolution neural network for predicting the severity of vulnerabilities
+- Proposed a novel attention-based input embedding layer which includes a bi-directional long short term memory (LSTM) network and an attention network to extract vulnerability-related information from tweet texts 
+- Integrated the proposed input embedding layer with one state-of-the-art graph convolution neural network for predicting the severity of vulnerabilities
+
+The aim of this work is to use Twitter discussions about vulnerabilities for predicting their severity before the assessments by official agencies. A GCN model is adopted in order to leverage the intrinsic correlations among vulnerabilities for prediction purpose. The graph is constructed in the following way. Each vulnerability is one node. To construct edge among vulnerabilities, tweet-contents related Features (i.e., Bag-of-Words, BoW) are first extracted for each vulnerability. One edge is drawn between two vulnerabilities if the cosine similarity of their BoW features is above a certain threshold. To further capture information contained in tweets, an attention-based input embedding layer is proposed and integrated with one state-of-the-art GCN network. This work could predict the severity of 37.85% volunerabilities at least one week earlier than the official agencies and with a mean absolute error or 1.255.
+
+Attention-based input embedding layer
+
+![CVSS_1]({{ site.url }}{{ site.baseurl }}/assets/attention_layer.png)
+
+Overall Architecture
+
+![CVSS_2]({{ site.url }}{{ site.baseurl }}/assets/CVSS_arct.png)
+
 
 <!---
 ### Research Associate  
