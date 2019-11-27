@@ -3,8 +3,6 @@ main:
 #   - title: "Home"
 #     url: /
   - title: "Projects"
-#     url: /projects/
-#   - title: "Projects-1"
     url: /categories/
   - title: "Publications"
     url: /publications/
