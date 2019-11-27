@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "About me"
-    url: /
+    url: https://jaymiliu.github.io/JingLiu/
   - title: "Projects"
     url: /categories/
   - title: "Publications"
