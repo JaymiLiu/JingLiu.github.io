@@ -1,0 +1,12 @@
+---
+title: "Modeling and accelerating large-scale optimization problems with TensorFlow"
+categories:
+  - Data Science
+classes: wide
+---
+
+## **Highlights**
++ Proposed a neural network to model non-linear 0-1 knapsack problem and devised an adaptive gradient ascent method to solve the network
++ Developed deep neural networks to model and maximize airline market share over air transportation network  
+
+**Note:** Papers are under review, more details will be provided upon publication. 
