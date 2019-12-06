@@ -1,0 +1,22 @@
+---
+title: "Robust Dual-Level Optimization Framework for Resource-Constrained Multiproject Scheduling for a Prefabrication Facility in Construction"
+categories:
+  - Construction Engineering and Management (CEM)
+classes: wide
+---
+## [Robust Dual-Level Optimization Framework for Resource-Constrained Multiproject Scheduling for a Prefabrication Facility in Construction](https://ascelibrary.org/doi/10.1061/%28ASCE%29CP.1943-5487.0000816)
+
+Citation: Liu, Jing, and Ming Lu. "Robust Dual-Level Optimization Framework for Resource-Constrained Multiproject Scheduling for a Prefabrication Facility in Construction." *Journal of Computing in Civil Engineering* 33.2 (2018): 04018067.
+
+### **Highlights**
++ Proposed a dual-level multi-project scheduling framework to optimize resource allocation decisions and minimize resource dependencies among multiple concurrent projects
++ Implemented the proposed framework in *IBM ILOG CPLEX Optimization Studio* for proof-of-concept 
++ Developed a MS project addon for a partner construction company to apply the proposed framework in scheduling their projects  
+
+ This paper aims to solve the resource allocation problem in scheduling multiple concurrent prefabrication projects. For prefabrication industry, projects are executed inside an organized factory simultanously and share limited, skilled labours to meat individual deadlines. Due to the disruppted learning curve for labours and high uncertainties in sharing labours among projects, plans with frequent transfers of labours from projects to projects are deemed as unacceptable by construction practitioners. Furthermore, it is usually hard to quantify costs related to the inter-project labour transfers, thus hindering the applicability of various mathmatical models proposed by previous researchers. Therefore, a framework which is capable of inherently reducing inter-project labour transfers is required for efficiently scheduling multiple concurrent prefabrication projects.
+ 
+ The proposed dual-level multi-project resource scheduling framework is shown as follows. In the framework, the upper level is responsible to allocate resources to projects and determine milestones as well, while the lower level is responsible to do detailed activity scheduling within one project subject to the determined milestones from the upper level. As demonstrated through a case study, the proposed framework could reduce unnecessary inter-project resource transfers by more than 40%.
+ 
+ Proposed Dual-Level resource scheduling optimization framework for a multi-project environment
+
+![JCCE_1]({{ site.url }}{{ site.baseurl }}/assets/JCCE_archt.png)
