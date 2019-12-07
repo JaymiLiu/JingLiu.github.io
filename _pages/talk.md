@@ -18,6 +18,7 @@ classes: wide
 - The 7th FTRA International Conference on Multimedia and Ubiquitous Engineering, Seoul, South Korea, May 2013
 
 ## Award
+
 | Award         | Year          |
 | ------------- | ------------- |
 | IJCAI'19 Demonstration Innovation Award Runner-up |  2019 |
