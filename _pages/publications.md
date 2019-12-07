@@ -1,9 +1,9 @@
 ---
 title: "Publication"
-permalink: /publications/
+permalink: /publication/
 author_profile: true
 toc: true
-toc_label: "Publications"
+toc_label: "Publication"
 toc_icon: "columns"
 ---
 
