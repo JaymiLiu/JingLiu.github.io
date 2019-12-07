@@ -1,11 +1,11 @@
 ---
-title: "Talks and Awards"
+title: "Talk and Award"
 permalink: /talks/
 author_profile: true
 classes: wide
 ---
 
-## TALKS
+## Talk
 ### Invited Talks at Universities and Companies
 - Southeast University, Nanjing, China, Jul. 2019
 - Supreme Group, Edmonton, Canada, Dec. 2017
@@ -17,8 +17,7 @@ classes: wide
 - Winter Simulation Conference 2016 (WSC), Arlington, VA, US, Dec. 2016
 - The 7th FTRA International Conference on Multimedia and Ubiquitous Engineering, Seoul, South Korea, May 2013
 
-## AWARDS
-
+## Award
 | Awards        | Year          |
 | ------------- | ------------- |
 | IJCAI'19 Demonstration Innovation Award Runner-up |  2019 |
