@@ -16,9 +16,6 @@ classes: wide
 - Lean & Computing in Construction Congress (LC3) 2017, Heraklion, Greece, Jul. 2017
 - Winter Simulation Conference 2016 (WSC), Arlington, VA, US, Dec. 2016
 - The 7th FTRA International Conference on Multimedia and Ubiquitous Engineering, Seoul, South Korea, May 2013
-	
-## PATENTS	
-- Fei Qiao, **Jing Liu**, Qi Wei, Zhe Wu, and Huazhong Yang ``A Novel Video Compression System Based on Underdetermined Blind Source Separation." National Patent of China, CN102413333A.
 
 ## AWARDS
 
