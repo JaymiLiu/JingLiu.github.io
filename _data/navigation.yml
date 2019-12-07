@@ -5,6 +5,6 @@ main:
   - title: "Project"
     url: /categories/
   - title: "Publication"
-    url: /publications/
+    url: /publication/
   - title: "Talk and Award"
-    url: /talks/
+    url: /talk/
