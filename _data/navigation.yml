@@ -2,9 +2,9 @@
 main:
   - title: "About me"
     url: https://jaymiliu.github.io/JingLiu/
-  - title: "Projects"
+  - title: "Project"
     url: /categories/
-  - title: "Publications"
+  - title: "Publication"
     url: /publications/
-  - title: "Talks and Awards"
+  - title: "Talk and Award"
     url: /talks/
