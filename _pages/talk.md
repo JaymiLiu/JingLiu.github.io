@@ -21,7 +21,7 @@ classes: wide
 
 | Award         | Year          |
 | ------------- | ------------- |
-| [IJCAI'19 Demonstration Innovation Award Runner-up](https://www.ijcai19.org/demos.html) |  2019 |
+| [IJCAI'19 Demonstration, Innovation Award, Runner-up](https://www.ijcai19.org/demos.html) |  2019 |
 | Joseph D Thompson/Zurich Canada Graduate Award | 2017 |
 | FGSR Graduate Student Travel Award | 2017 |
 | GSA Academic Travel Award  | 2017 |
