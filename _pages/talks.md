@@ -25,6 +25,3 @@ classes: wide
 | Joseph D Thompson/Zurich Canada Graduate Award | 2017 |
 | FGSR Graduate Student Travel Award | 2017 |
 | GSA Academic Travel Award  | 2017 |
-| Third Prize in National Electronic Design Contest  | 2009 |
-| National Scholarship, Ministry of Education of China  | 2007 |
-| Excellent Student Award  | 2007, 2008, 2009 |
