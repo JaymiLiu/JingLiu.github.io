@@ -24,5 +24,5 @@ toc_icon: "columns"
 - **Jing Liu** and Ming Lu. (2018) "Constraint Programming Approach to Optimizing Project Schedules Under Materials Logistics and Crew Availability Constraints." Journal of Construction Engineering and Management, 144(7). https://doi.org/10.1061/(ASCE)CO.1943-7862.0001507.
 - **Jing Liu**, Meimanat Soleimanifar,  and Ming Lu. (2017) "Resource-Loaded Piping Spool Fabrication Scheduling: Material-Supply-Driven Optimization." Visualization in Engineering, 5(1), 5. https://doi.org/10.1186/s40327-017-0044-3.
 
-### PATENT	
+### Patent	
 - Fei Qiao, **Jing Liu**, Qi Wei, Zhe Wu, and Huazhong Yang. "A Novel Video Compression System Based on Underdetermined Blind Source Separation." National Patent of China, CN102413333A.
