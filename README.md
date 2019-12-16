@@ -2,4 +2,4 @@
 
 
 ---
-Credits to [Michael Rose] (https://mademistakes.com)
+Credits to [Michael Rose](https://mademistakes.com)
