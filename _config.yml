@@ -108,7 +108,7 @@ analytics:
 # Site Author
 author:
   name             : "Jing Liu | PhD"
-  avatar           : "/assets/Jing.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/Jing.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Data Scientist @ Walmart Labs"
   location         : "Fairfax, VA"
   email            :
