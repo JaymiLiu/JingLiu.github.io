@@ -8,6 +8,9 @@ toc_icon: "columns"
 ---
 
 ### Conference
+- Duanshun Li, **Jing Liu**, Dongeun Lee, Ali Seyedmazloom, Giridhar Kaushik, Kookjin Lee, and Noseong Park. "A Novel Method to Solve Neural Knapsack Problems." In International Conference on Machine Learning, pp. 6414-6424. PMLR, 2021.
+- Jinsung Jeon, **Jing Liu**, Jayoung Kim, Jaehoon Lee, Noseong Park, Jamie Jooyeon Lee, Ozlem Uzuner, and Sushil Jajodia. "Scalable Graph Synthesis with Adj and 1—Adj." In Proceedings of the 2021 SIAM International Conference on Data Mining (SDM), pp. 307-315. Society for Industrial and Applied Mathematics, 2021.
+- Jinsung Jeon, Dongeun Lee, Seunghyun Hwang, Soyoung Kang, Noseong Park, Duanshun Li, Kookjin Lee, and **Jing Liu**. "Large-Scale Flight Frequency Optimization with Global Convergence in the US Domestic Air Passenger Markets." In Proceedings of the 2021 SIAM International Conference on Data Mining (SDM), pp. 711-719. Society for Industrial and Applied Mathematics, 2021.
 - **Jing Liu**, Yudi Chen, Duanshun Li, Noseong Park, Kisung Lee, and Dongwon Lee, "Predicting Influence Probabilities using Graph Convolutional Networks," the 2019 IEEE International Conference on Big Data (IEEE Big Data'19) (Regular paper, acceptance rate 106/550=19.3%)
 - Haipeng Chen, **Jing Liu**, Rui Liu, Noseong Park, and VS Subrahmanian. "VASE: A Twitter-based Vulnerability Analysis and Score Engine." the 19th International Conference on Data Mining (ICDM'19) (Short paper, acceptance rate 194/1046=18.5%) 
 - Haipeng Chen, **Jing Liu**, Rui Liu, Noseong Park and V. S. Subrahmanian, "VEST: A System for Vulnerability Exploit Scoring & Timing," the 28th International Joint Conference on Artificial Intelligence (IJCAI'19), demo track
