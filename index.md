@@ -4,7 +4,7 @@ permalink: /
 layout: single
 author_profile: true
 classes: wide
-date: 2020-03-18EST00:00:00+05:00
+date: 2021-10-19EST00:00:00+05:00
 ---
 
 Currently, I work as a Senior Data Scientist at Walmart Labs Reston Office. I am skilled in data analysis, supervised learning, and deep learning (tensorflow and Pytorch). I am proficient in Pyspark, Pandas, Numpy, Matplotlib, Scikit-learn, and SQL. I also had experience in working with construction companies.
